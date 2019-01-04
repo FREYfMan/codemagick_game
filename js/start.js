@@ -1,3 +1,5 @@
+'use strict';
+
 var CLOUD_WIDTH = 420;
 var CLOUD_HEIGTH = 270;
 var CLOUD_TEXT = "Вы победили!";
